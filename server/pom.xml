@@ -21,7 +21,7 @@
         <zookeeper.version>3.4.14</zookeeper.version>
         <curator.version>2.12.0</curator.version>
         <dubbo.version>2.6.4</dubbo.version>
-        <resteasy.version>3.0.7.Final</resteasy.version>
+        <resteasy.version>3.0.11.Final</resteasy.version>
 
     </properties>
 
